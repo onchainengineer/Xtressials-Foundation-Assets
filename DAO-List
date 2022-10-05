@@ -4,11 +4,18 @@
     "value": [
       {
         "name": "Xtressials Foundation",
-        "description": "The Xtressials Foundation ("XF") is committed to developing and maintaining open-source software and applications that will contribute to the growth of a decentralized sustainable economy. ",
+        "description": "XF",
         "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/%24HEALIOS.png",
-        "href": "https://dao.onchain.engineer",
-        "TVL": 1000.000000
+        "href": "https://xtressials.org",
+        "TVL": 20611236.627233945
+      },
+      {
+        "name": "Tenacity Network Foundation",
+        "description": "TNF",
+        "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/%24HEALIOS.png",
+        "href": "https://tenacity.network",
+        "TVL": 20611236.627233945
       }
-          ]
+    ]
   }
 ]
