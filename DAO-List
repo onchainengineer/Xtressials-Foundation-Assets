@@ -7,14 +7,21 @@
         "description": "XF",
         "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/%24HEALIOS.png",
         "href": "https://xtressials.org",
-        "TVL": 20611236.627233945
+        "TVL": 1000.00000000
       },
       {
         "name": "Tenacity Network Foundation",
         "description": "TNF",
-        "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/%24HEALIOS.png",
+        "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/TNF%20Logo.png",
         "href": "https://tenacity.network",
-        "TVL": 20611236.627233945
+        "TVL": 1000.00000000
+      },
+      {
+        "name": "Help Network Alliance",
+        "description": "HNA",
+        "image": "https://github.com/onchainengineer/Xtressials-Foundation-Assets/raw/main/Help%20Network.png",
+        "href": "https://helpnetwork.onchain.engineer",
+        "TVL": 1000.00000000
       }
     ]
   }
